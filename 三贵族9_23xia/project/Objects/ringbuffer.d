@@ -1,0 +1,9 @@
+.\objects\ringbuffer.o: ..\thridsoft\Utils\ringbuffer.c
+.\objects\ringbuffer.o: ..\thridsoft\Utils\ringBuffer.h
+.\objects\ringbuffer.o: E:\mdk520\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ringbuffer.o: E:\mdk520\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\ringbuffer.o: E:\mdk520\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\ringbuffer.o: E:\mdk520\ARM\ARMCC\Bin\..\include\string.h
+.\objects\ringbuffer.o: ..\thridsoft\Utils\common.h
+.\objects\ringbuffer.o: E:\mdk520\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\ringbuffer.o: E:\mdk520\ARM\ARMCC\Bin\..\include\ctype.h

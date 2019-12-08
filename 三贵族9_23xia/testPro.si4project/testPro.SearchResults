@@ -1,0 +1,3 @@
+---- TIMER_IRQ_FUN Matches (2 in 2 files) ----
+gizwits_product.c (thridsoft\Gizwits) line 229 : * @brief TIMER_IRQ_FUN
+gizwits_product.h (thridsoft\Gizwits) line 28 : #define TIMER_IRQ_FUN		TIM3_IRQHandler

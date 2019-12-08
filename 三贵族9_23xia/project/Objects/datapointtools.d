@@ -1,0 +1,9 @@
+.\objects\datapointtools.o: ..\thridsoft\Utils\dataPointTools.c
+.\objects\datapointtools.o: ..\thridsoft\Utils\dataPointTools.h
+.\objects\datapointtools.o: E:\mdk520\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\datapointtools.o: E:\mdk520\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\datapointtools.o: E:\mdk520\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\datapointtools.o: E:\mdk520\ARM\ARMCC\Bin\..\include\string.h
+.\objects\datapointtools.o: ..\thridsoft\Utils\common.h
+.\objects\datapointtools.o: E:\mdk520\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\datapointtools.o: E:\mdk520\ARM\ARMCC\Bin\..\include\ctype.h
